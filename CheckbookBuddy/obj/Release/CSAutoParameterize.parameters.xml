@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<parameters>
-  <parameter name="CheckbookBuddyContext-Web.config Connection String" description="CheckbookBuddyContext Connection String used in web.config by the application to access the database." defaultValue="Data Source=(localdb)\MSSQLLocalDB; Initial Catalog=CheckbookBuddyContext-20170704135648; Integrated Security=True; MultipleActiveResultSets=True; AttachDbFilename=|DataDirectory|CheckbookBuddyContext-20170704135648.mdf" tags="SqlConnectionString">
-    <parameterEntry kind="XmlFile" scope="C:\\Users\\yudi\\Documents\\Visual\ Studio\ 2015\\Projects\\CheckbookBuddy\\CheckbookBuddy\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='CheckbookBuddyContext']/@connectionString" />
-  </parameter>
-</parameters>
