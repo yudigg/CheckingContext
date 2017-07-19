@@ -85,7 +85,7 @@ namespace CheckbookBuddy.Controllers
                     var networkCred = new System.Net.NetworkCredential
                     {
                         UserName = mailMessage.From.Address,
-                        Password = emailValue
+                        Password = emailValue//////////////
                         };
                         smtp.UseDefaultCredentials = true;
                         smtp.Credentials = networkCred;
