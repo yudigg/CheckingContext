@@ -1,0 +1,15 @@
+C:\Users\yudi\Documents\Visual Studio 2015\Projects\CheckbookBuddy\DataAccess\bin\Release\DataAccess.dll.config
+C:\Users\yudi\Documents\Visual Studio 2015\Projects\CheckbookBuddy\DataAccess\bin\Release\DataAccess.dll
+C:\Users\yudi\Documents\Visual Studio 2015\Projects\CheckbookBuddy\DataAccess\bin\Release\DataAccess.pdb
+C:\Users\yudi\Documents\Visual Studio 2015\Projects\CheckbookBuddy\DataAccess\bin\Release\EntityFramework.dll
+C:\Users\yudi\Documents\Visual Studio 2015\Projects\CheckbookBuddy\DataAccess\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\yudi\Documents\Visual Studio 2015\Projects\CheckbookBuddy\DataAccess\bin\Release\EntityFramework.xml
+C:\Users\yudi\Documents\Visual Studio 2015\Projects\CheckbookBuddy\DataAccess\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\yudi\Documents\Visual Studio 2015\Projects\CheckbookBuddy\DataAccess\obj\Release\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\yudi\Documents\Visual Studio 2015\Projects\CheckbookBuddy\DataAccess\obj\Release\DataAccess.Migrations.init.resources
+C:\Users\yudi\Documents\Visual Studio 2015\Projects\CheckbookBuddy\DataAccess\obj\Release\DataAccess.Migrations.addedSalt.resources
+C:\Users\yudi\Documents\Visual Studio 2015\Projects\CheckbookBuddy\DataAccess\obj\Release\DataAccess.Migrations.EnumRole.resources
+C:\Users\yudi\Documents\Visual Studio 2015\Projects\CheckbookBuddy\DataAccess\obj\Release\DataAccess.Migrations.OrderStuff.resources
+C:\Users\yudi\Documents\Visual Studio 2015\Projects\CheckbookBuddy\DataAccess\obj\Release\DataAccess.csproj.GenerateResource.Cache
+C:\Users\yudi\Documents\Visual Studio 2015\Projects\CheckbookBuddy\DataAccess\obj\Release\DataAccess.dll
+C:\Users\yudi\Documents\Visual Studio 2015\Projects\CheckbookBuddy\DataAccess\obj\Release\DataAccess.pdb
